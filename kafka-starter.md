@@ -1,4 +1,4 @@
-## Kafka
+## :tada: Kafka
 
 ### Kafka & Zookeeper Configuration
 
