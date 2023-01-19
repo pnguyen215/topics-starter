@@ -14,7 +14,7 @@ Connect via pem file (0400 permissions)
 ```shell script
 $ ssh -i /path/file.pem root@192.168.1.5
 ```
-See: [SSH Permissions](/chmod#ssh-permissions)
+See: [SSH Permissions](https://github.com/pnguyen215/topics-starter/blob/master/chmod-starter.md#ssh-permissions)
 
 ### Executing
 Executes remote command
@@ -29,8 +29,6 @@ Compresses and downloads from a server
 ```shell script {.wrap}
 $ ssh root@192.168.1.5 "tar cvzf - ~/source" > output.tgz
 ```
-
-
 
 ### SCP {.row-span-2}
 
@@ -58,7 +56,6 @@ Copies from a server folder to the current folder
 ```shell script
 $ scp user@server:/dir/* .
 ```
-
 
 ### Config location
 | File Path                | Description          |
@@ -98,7 +95,6 @@ Launch by alias
 $ ssh server1
 ```
 See: Full [Config Options](https://linux.die.net/man/5/ssh_config)
-
 
 
 ### ProxyJump
