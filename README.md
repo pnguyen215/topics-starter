@@ -6,6 +6,7 @@
 - [Kafka](https://github.com/pnguyen215/topics-starter/blob/master/kafka-starter.md "Kafka guide")
 - [Angular](https://github.com/pnguyen215/topics-starter/blob/master/angular-starter.md "Angular guide")
 - [Java](https://github.com/pnguyen215/topics-starter/blob/master/java-starter.md "Java guide")
+- [Git](https://github.com/pnguyen215/topics-starter/blob/master/git-starter.md "Git guide")
 - [Git Messages](https://github.com/pnguyen215/topics-starter/blob/master/git-messages-starter.md "Git messages guide")
 
 ---
