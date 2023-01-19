@@ -17,6 +17,7 @@ Linux Command
 ---
 Other
 - [HTTP Status Code](https://github.com/pnguyen215/topics-starter/blob/master/http-status-code-starter.md "HTTP Status Code guide")
+- [MIME Type](https://github.com/pnguyen215/topics-starter/blob/master/mime-types-starter.md "MIME Type guide")
 
 ***
 #### Refer markdown
