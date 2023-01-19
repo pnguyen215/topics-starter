@@ -14,6 +14,10 @@ Linux Command
 - [SSH](https://github.com/pnguyen215/topics-starter/blob/master/ssh-starter.md "SSH guide")
 - [Chmod](https://github.com/pnguyen215/topics-starter/blob/master/chmod-starter.md "Chmod guide")
 
+---
+Other
+- [HTTP Status Code](https://github.com/pnguyen215/topics-starter/blob/master/http-status-code-starter.md "HTTP Status Code guide")
+
 ***
 #### Refer markdown
 
