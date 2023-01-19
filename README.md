@@ -8,7 +8,10 @@
 - [Java](https://github.com/pnguyen215/topics-starter/blob/master/java-starter.md "Java guide")
 - [Git Messages](https://github.com/pnguyen215/topics-starter/blob/master/git-messages-starter.md "Git messages guide")
 
-
+---
+Linux Command
+- [SSH](https://github.com/pnguyen215/topics-starter/blob/master/ssh-starter.md "SSH guide")
+- [Chmod](https://github.com/pnguyen215/topics-starter/blob/master/chmod-starter.md "Chmod guide")
 
 ***
 #### Refer markdown
